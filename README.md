@@ -1,2 +1,2 @@
-# Esqualizacao-histograma
+# Equalizacao-histograma
 Trabalho para faculdade
