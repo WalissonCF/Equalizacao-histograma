@@ -1,6 +1,9 @@
 # Equalizacao-histograma
 Trabalho para faculdade
 
+# Classe inicial
+EqualizacaoHistograma.java
+
 # Refatorando
 Para testar a equalização em outras linhas de pixel de até 20 pixels:
 Entrar na classe - EqualizadorDeVetores.java e realizar trocar os dados do vetor vetorDeLinhaDePixel.
